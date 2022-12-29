@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.html linguist-detectable=false
-*.css linguist-detachable=false
-*.scss linguist-detachable=false
-*.js liguist-detachable=false
+*.html, .css, .scss, .js linguist-detectable=false
+*.css linguist-detectable=false
+*.scss linguist-detectable=false
+*.js linguist-detectable=false
