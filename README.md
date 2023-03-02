@@ -30,7 +30,7 @@ A matrix decomposition technique that is used to decomposed vectors or matrices 
  
 - ## Similarity Detection:
 
- - ### Consine Similarity Algorithm:
+ - ### Applying the Consine Similarity Algorithm:
 The consine similarity algorithm is used to calcualte the consine angle between the vectors across the document term matrix, which ultimately creates a vector with each document in both y and x axis and their respective similarity scores with comparison to one another. This generated matrix is considered as the final output that consists of all similarity scores between all documents that were uploaded into the system.
 
 - ## Presenting the documents:
